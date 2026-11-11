@@ -1,0 +1,10 @@
+PROYECTO FINAL · CONSTRUYE APLICACIONES WEB · CBTIS 260 · GRUPO "B"
+Sitio: Licenciatura en Fisioterapia BUAP
+
+1_Documentos_Word/   -> tus documentos originales
+2_Presentacion/      -> tu presentación original
+3_Documentacion/     -> guía XAMPP + nube, plantilla del reporte técnico y logotipo
+fisioterapia-buap/   -> CÓDIGO FUENTE (HTML, CSS, JS, PHP) + database/fisioterapia_buap.sql
+
+Empieza por: 3_Documentacion/GUIA_DESPLIEGUE.md
+Cuentas de prueba: aspirante@buap.mx / fisio2026   ·   admin@buap.mx / admin2026

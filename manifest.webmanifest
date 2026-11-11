@@ -1,0 +1,26 @@
+{
+  "name": "Licenciatura en Fisioterapia BUAP",
+  "short_name": "Fisio BUAP",
+  "description": "Plan de estudios, campo laboral, fichas de inscripción y encuesta de la Licenciatura en Fisioterapia BUAP.",
+  "lang": "es-MX",
+  "start_url": "index.php?origen=app",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#F3F7FA",
+  "theme_color": "#003B5C",
+  "categories": ["education", "medical"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "shortcuts": [
+    { "name": "Plan de estudios", "url": "plan.php", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Solicitar ficha", "url": "registro.php#ficha", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] },
+    { "name": "Encuesta", "url": "encuesta.php", "icons": [{ "src": "icons/icon-192.png", "sizes": "192x192" }] }
+  ],
+  "screenshots": [
+    { "src": "assets/img/fisio1.jpg", "sizes": "1400x798", "type": "image/jpeg", "form_factor": "wide", "label": "Inicio del sitio" }
+  ]
+}
